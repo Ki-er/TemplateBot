@@ -1,0 +1,19 @@
+{
+    "name": "clarence2.0",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.mjs",
+    "scripts": {
+        "start": "node src/index.mjs",
+        "test": "nodemon src/index.mjs"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.10.2",
+        "dotenv": "^16.0.1",
+        "globby": "^13.1.2",
+        "pino": "^7.0.0-rc.9"
+    }
+}
